@@ -1,6 +1,6 @@
 # **Oracle SQL and PL/SQL Coding Guidelines**
 
-The main purpose of **Oracle SQL and PL/SQL Coding Guidelines** to define the standards and guidelines for Oracle PL/SQL developers. These guidelines will be maintained and reviewed frequently to improve it and reach the best practices to write, maintain and enhancement the Oracle SQL and Pl/SQL.
+The main purpose of **Oracle SQL and PL/SQL Coding Guidelines** to define the standards and guidelines for Oracle PL/SQL developers. These guidelines will be maintained and reviewed frequently to improve it and reach the best practices to write, maintain and enhancement the Oracle SQL and Pl/SQL. It was created by Egyptian Programmers.
 
  ## Oracle SQL and PL/SQL Coding Guidelines
  
@@ -13,7 +13,7 @@ The main purpose of **Oracle SQL and PL/SQL Coding Guidelines** to define the st
 
 ## Introduction
 
-The main purpose of Oracle SQL and PL/SQL Coding Guidelines to define the standards and guidelines for Oracle PL/SQL developers.These guidelines will be maintained and reviewed frequently to improve it and reach the best practices to write, maintain and enhancement the Oracle SQL and Pl/SQL.
+The main purpose of Oracle SQL and PL/SQL Coding Guidelines to define the standards and guidelines for Oracle PL/SQL developers. this guideline will be maintained and reviewed frequently to improve it and reach the best practices to write, maintain and enhancement the Oracle SQL and Pl/SQL code.
 
 **Naming Convention** In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
 </br>
