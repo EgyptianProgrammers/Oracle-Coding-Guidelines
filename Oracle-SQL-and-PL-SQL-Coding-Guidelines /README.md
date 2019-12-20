@@ -29,8 +29,6 @@ This is the standard of oracle database objects
 
 > **[optional {module_abbr}{separator}]{prefix}{separator}{identifier_name}{separator}{suffix}**
 
-</br> Notes: **pos** is abbreviation or short for **P**oint **O**f **S**ale, and we will use it as module abbreviation for example.
-
  | SEQ       | Object Name               | Length | Prefix | Suffix | Example |
  | :-        | :----                     | :-:    | :---   | :---   | :----   |
  | 1         | **Tables**                    | -     |  -      |  -      | -|
@@ -66,6 +64,10 @@ This is the standard of oracle database objects
  | 12.2      | Tables                    |        | t_     | _type  | t_customer_type |  
  | 12.3      | Objects                   |        | o_     | _type  | o_customer_type |  
  
+</br>
+Notes: **pos** is abbreviation or short for **P**oint **O**f **S**ale, and we will use it as module abbreviation for example.
+
+</br>
  
 ### Oracle PL/SQL Objects
 This is the standard of oracle PL/SQL objects.
@@ -96,7 +98,6 @@ This is the standard of oracle PL/SQL objects.
  
 </br> </br>
 <h2>File Extensions</h2>
-Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned Stay Tuned :)
 
  | SEQ | Object Name           | Extension | Example                  | Remarks   |
  | :-: | :---                  | :---      | :---                     | :-------- |
