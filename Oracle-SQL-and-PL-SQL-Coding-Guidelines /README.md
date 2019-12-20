@@ -92,7 +92,7 @@ This is the standard of oracle PL/SQL objects.
  | 3.1 | Cursor Parameters          |        |       | p      |        | p_customer        |
  | 3.2 | In Parameters              |        |       | p      |        | p_customer_id     | 
  | 3.3 | Out Parameters             |        |       | x      |        | x_customer_id     | 
- | 3.4 | In/Out Parameters          |        |       | px     |        | xp_customer_id    | 
+ | 3.4 | In/Out Parameters          |        |       | px     |        | px_customer_id    | 
  | 4   | **Other Objects Definitions**  |    -   |       |   -    |   -    |     -             | 
  | 4.1 | Cursors                    |        |       | cur    |        | cur_customers     |
  | 4.2 | Record                     |        |       | r      |  type  | r_customer_type   | 
