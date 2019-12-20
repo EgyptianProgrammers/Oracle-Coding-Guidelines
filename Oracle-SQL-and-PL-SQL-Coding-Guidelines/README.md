@@ -132,7 +132,7 @@ The appendix section that presents elements syntax and describes it.
 </br>
 
 ## Contributing to the guidelines
-We welcome new Oracle developers to join our community and contribute to the Oracle coding guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
+We welcome new Oracle developers to join our community and contribute to the Oracle coding guidelines project. If you are interested in helping please don’t hesitate to contact on our e-mail: info@egyptianprogrammers.com
 
 </br>
 
