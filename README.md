@@ -17,6 +17,7 @@ We welcome new Oracle developers to join our community and contribute to the Ora
 | :-  | :---- |
 | Ahmed El-Demasy (Original Author) | <a href="https://github.com/demasy">Demasy</a> |
 
-
+<b>
+  
 ###### Suggestions & Issues
 > If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/EgyptianProgrammers/Oracle-Coding-Guidelines/issues">GitHub</a>.
