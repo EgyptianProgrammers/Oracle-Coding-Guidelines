@@ -9,7 +9,7 @@ The main purpose of **Oracle Coding Guidelines** to define the standards and gui
 <br>
 
 ### Contributing to the guidelines
-We welcome new developers to join our community and contribute to the Oracle Coding Guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
+We welcome new Oracle developers to join our community and contribute to the Oracle coding guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
 
 ###### Issues
 > If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/EgyptianProgrammers/Oracle-Coding-Guidelines/issues">GitHub</a>.
