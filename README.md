@@ -7,6 +7,8 @@ The main purpose of **Oracle Coding Guidelines** to define the standards and gui
 - <a href="https://github.com/EgyptianProgrammers/Oracle-Coding-Guidelines/tree/sql-plsql-guidelines/Oracle-SQL-and-PL-SQL-Coding-Guidelines">Oracle SQL and PL/SQL Coding Guidelines</a>
 - <a href="#">Oracle OA Framework (OAF) Guidelines (Soon) </a>
 
+<b><b>
+  
 ### Contributors
 
 | Author | GitHub & LinkedIn account |
