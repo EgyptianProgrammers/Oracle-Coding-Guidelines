@@ -29,7 +29,7 @@ This is the standard of oracle database objects
 
 > **[optional {module_abbr}{separator}]{prefix}{separator}{identifier_name}{separator}{suffix}**
 
-> Notes: **pos** is abbreviation or short for **P**oint **O**f **S**ale, and we will use it as module abbreviation for example.
+</br> Notes: **pos** is abbreviation or short for **P**oint **O**f **S**ale, and we will use it as module abbreviation for example.
 
  | SEQ       | Object Name               | Length | Prefix | Suffix | Example |
  | :-        | :----                     | :-:    | :---   | :---   | :----   |
