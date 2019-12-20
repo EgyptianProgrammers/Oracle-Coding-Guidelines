@@ -13,6 +13,7 @@ The main purpose of **Oracle Coding Guidelines** to define the standards and gui
 | Author | GitHub & LinkedIn account |
 | :-  | :---- |
 | Ahmed El-Demasy (Original Author) | <a href="https://github.com/demasy">Github</a> & <a href="https://www.linkedin.com/in/ahmedeldemasy">LinkedIn</a> |
+<br>
 
 ### Contributing to the Oracle coding guidelines
 We welcome new Oracle developers to join our community and contribute to the Oracle coding guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
