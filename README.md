@@ -1,6 +1,6 @@
 # Oracle Coding Guidelines
 
-The main purpose of **Oracle Coding Guidelines** to define the standards and guidelines for Oracle developers in Egypt and the Arab world and worldwide. These guidelines will be maintained and reviewed frequently to improve it and reach the best practices to know how to write the code,m aintain and enhancement the Oracle code in Oracle database, Oracle middleware and other technologies related to Oracle technologies.
+The main purpose of **Oracle Coding Guidelines** to define the standards and guidelines for Oracle developers in Egypt and the Arab world and worldwide. These guidelines will be maintained and reviewed frequently to improve it and reach the best practices to know how to write the clean code, maintain and enhancement the Oracle code in Oracle database, Oracle middleware and other technologies related to Oracle technologies.
 <br><br>
 
 **Guidelines-**
