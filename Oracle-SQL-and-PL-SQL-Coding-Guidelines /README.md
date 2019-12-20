@@ -123,13 +123,9 @@ The appendix section that presents elements syntax and describes it.
  | 8   | {column_name}     | Column Name         |             |
  | 9   | {column_abbr}     | Column Abbreviation |             |
 
- *Module 
- 
-## Glossary
-> Soon
 
-## References
-> Soon
+### Contributing to the guidelines
+We welcome new Oracle developers to join our community and contribute to the Oracle coding guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
 
-###### Contact US
-> If you have any further questions, please don’t hesitate to contact me e-mail: **info@egyptianprogrammers.com**
+###### Suggestions & Issues
+> If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/EgyptianProgrammers/Oracle-Coding-Guidelines/issues">GitHub</a>.
