@@ -1,6 +1,6 @@
 # **Oracle SQL and PL/SQL Coding Guidelines**
 
-The main purpose of **Oracle SQL and PL/SQL Coding Guidelines** to define the standards and guidelines for Oracle PL/SQL developers. These guidelines will be maintained and reviewed frequently to improve it and reach the best practices to write, maintain and enhancement the Oracle SQL and Pl/SQL by **@EgyptianProgrammers** community.
+The main purpose of **Oracle SQL and PL/SQL Coding Guidelines** to define the standards and guidelines for Oracle PL/SQL developers. These guidelines will be maintained and reviewed frequently to improve it and reach the best practices to write, maintain and enhancement the Oracle SQL and Pl/SQL.
 
  ## Oracle SQL and PL/SQL Coding Guidelines
  
