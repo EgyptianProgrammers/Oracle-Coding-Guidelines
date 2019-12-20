@@ -69,6 +69,7 @@ This is the standard of oracle database objects
  | 12.3      | Objects                   |        | o_     | _type  | o_customer_type |  
  
 </br>
+
 Notes: **pos** is abbreviation or short for **P**oint **O**f **S**ale, and we will use it as module abbreviation for example.
 
 </br>
