@@ -37,7 +37,7 @@ This is the standard of oracle database objects
  | 1.1       | **Table Constraints**        | -      |    -   |  -     |   -      |
  | 1.1.1     | Primary Key               |        |        | _pk    | customer_id_pk | 
  | 1.1.2     | Foreign Key               |        |        | _fk    | customer_id_fk |
- | 1.1.3     | Check                     |        |        | _ck    | customer_mobile_ck | 
+ | 1.1.3     | Check Key                 |        |        | _ck    | customer_mobile_ck | 
  | 1.1.4     | Unique Key                |        |        | _uk    | customer_mobile_uk | 
  |1.1.5      | Index                     | 30     |        | _idx   | customer_id_idx |
  | 2         | Views                     | 30     |        | _v     | customers_v, customer_headers_v and pos_customer_headers_v |
@@ -85,9 +85,9 @@ This is the standard of oracle PL/SQL objects.
  | 2.2 | Local Constants            |        | l     |  c     |        | lc_max_discount   | 
  | 3   | **Parameters**                 |  -     |       |  -     |  -     |    -              |
  | 3.1 | Cursor Parameters          |        |       | p      |        | p_customer        |
- | 3.2 | In Parameters              |        |       | p      |  in    | p_customer_in     | 
- | 3.3 | Out Parameters             |        |       | p      |  out   | p_customer_out    | 
- | 3.4 | In/Out Parameters          |        |       | p      |  inout | p_customer_inout  | 
+ | 3.2 | In Parameters              |        |       | p      |        | p_customer_id     | 
+ | 3.3 | Out Parameters             |        |       | x      |        | x_customer_id     | 
+ | 3.4 | In/Out Parameters          |        |       | px     |        | xp_customer_id    | 
  | 4   | **Other Objects Definitions**  |    -   |       |   -    |   -    |     -             | 
  | 4.1 | Cursors                    |        |       | cur    |        | cur_customers     |
  | 4.2 | Record                     |        |       | r      |  type  | r_customer_type   | 
@@ -125,7 +125,7 @@ The appendix section that presents elements syntax and describes it.
  | 9   | {column_abbr}     | Column Abbreviation |             |
 
 
-### Contributing to the guidelines
+## Contributing to the guidelines
 We welcome new Oracle developers to join our community and contribute to the Oracle coding guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
 
 ###### Suggestions & Issues
