@@ -15,7 +15,7 @@ We welcome new Oracle developers to join our community and contribute to the Ora
 
 | Author | GitHub & Linkedin account |
 | :-  | :---- |
-| Ahmed El-Demasy (Original Author) | <a href="https://github.com/demasy">Github</a> & <a href="https://www.linkedin.com/in/ahmedeldemasy">Linked</a> |
+| Ahmed El-Demasy (Original Author) | <a href="https://github.com/demasy">Github</a> & <a href="https://www.linkedin.com/in/ahmedeldemasy">LinkedIn</a> |
 
 <b>
   
