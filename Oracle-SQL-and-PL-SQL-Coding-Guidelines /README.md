@@ -11,6 +11,8 @@ The main purpose of **Oracle SQL and PL/SQL Coding Guidelines** to define the st
      - Oracle PL/SQL Objects
      - File Extensions
 
+</br>
+
 ## Introduction
 
 The main purpose of Oracle SQL and PL/SQL Coding Guidelines to define the standards and guidelines for Oracle PL/SQL developers. this guideline will be maintained and reviewed frequently to improve it and reach the best practices to write, maintain and enhancement the Oracle SQL and Pl/SQL code.
@@ -18,6 +20,8 @@ The main purpose of Oracle SQL and PL/SQL Coding Guidelines to define the standa
 **Naming Convention** In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
 </br>
 <b>Reference: </b><a href="https://en.wikipedia.org/wiki/Naming_convention_(programming)"> wikipedia</a>
+
+</br>
 
 ## Naming Conventions
 This is the Egyptian programmers naming conventions for Oracle database objects and PL/SQL code.
@@ -124,9 +128,12 @@ The appendix section that presents elements syntax and describes it.
  | 8   | {column_name}     | Column Name         |             |
  | 9   | {column_abbr}     | Column Abbreviation |             |
 
+</br>
 
 ## Contributing to the guidelines
 We welcome new Oracle developers to join our community and contribute to the Oracle coding guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: info@egyptianprogrammers.com
+
+</br>
 
 ###### Suggestions & Issues
 > If you find any issue or have a great idea in mind please create an issue on <a href="https://github.com/EgyptianProgrammers/Oracle-Coding-Guidelines/issues">GitHub</a>.
