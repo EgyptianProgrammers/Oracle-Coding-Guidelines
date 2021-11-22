@@ -5,6 +5,7 @@ The main purpose of **Oracle Coding Guidelines** to define the standards and gui
 
 **Guidelines-**
 - <a href="https://github.com/EgyptianProgrammers/Oracle-Coding-Guidelines/tree/master/Oracle-SQL-and-PL-SQL-Coding-Guidelines">Oracle SQL and PL/SQL Coding Guidelines</a>
+- <a href="#">Oracle Oracle E-Business Suite Guidelines</a> (Soon)
 - <a href="#">Oracle OA Framework (OAF) Guidelines</a> (Soon)
 - <a href="#">Oracle Application Development Framework (ADF) Guidelines</a> (Soon)
 <br><br>
